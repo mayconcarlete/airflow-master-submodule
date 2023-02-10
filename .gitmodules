@@ -1,0 +1,6 @@
+[submodule "submodule-test"]
+	path = submodule-test
+	url = git@github.com:mayconcarlete/submodule-test.git
+[submodule "src/team"]
+	path = src/team
+	url = git@github.com:mayconcarlete/submodule-test.git
