@@ -1,6 +1,0 @@
-[submodule "submodule-test"]
-	path = submodule-test
-	url = git@github.com:mayconcarlete/submodule-test.git
-[submodule "src/team/fraud_1"]
-	path = src/team/fraud_1
-	url = git@github.com:mayconcarlete/submodule-test.git
