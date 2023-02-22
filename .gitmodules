@@ -1,6 +1,0 @@
-[submodule "submodule-test"]
-	path = src/teams/fraud/submodule-test
-	url = https://github.com/mayconcarlete/submodule-test.git
-[submodule "src/teams/nodebase"]
-	path = src/teams/nodebase
-	url = git@github.com:mayconcarlete/nodebase.git
