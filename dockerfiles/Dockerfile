@@ -2,7 +2,7 @@ FROM apache/airflow:2.5.1-python3.10 AS base
 
 RUN pip3 install poetry
 
-COPY pyproject.toml .
+COPY ../pyproject.toml .
 
 RUN poetry install --no-root --no-interaction --no-ansi --only main
 
